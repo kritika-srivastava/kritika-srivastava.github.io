@@ -1,0 +1,60 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Google PlaceID Reviews Scrapping
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: Google-place-ID-Reviews-Scrapping
+  img: /static/assets/img/landing/scrap.png
+  desc: This is a python based webscrapping project that scrapes the reviews of a particular place from its placeID.
+        It makes the use of JSON and requests along with the Google API Key to scrap the latest 5 reviews of a particular
+        place on the globe.
+
+- name: Game of Life
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: Game-of-Life
+  img: /static/assets/img/landing/gol.png
+  desc: This java project is based on is a 'cellular automaton', and was invented by Cambridge mathematician John Conway.
+        It consists of a collection of cells which, based on a few mathematical rules, can live, die or multiply. 
+        Depending on the initial conditions, the cells form various patterns throughout the course of the game.  
+
+- name: Tic Tac Toe
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: Tic-Tac-Toe
+  img: /static/assets/img/landing/ttt.png
+  desc: This mini project, written in java, is the console based replication of the very famous Cross and Knoughts game.
+
+- name: Java Competitive Coding
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: Competitive-Coding
+  img: /static/assets/img/landing/java.png
+  desc: This repository contains all the problems that I solve on various
+        competitive coding platforms.
+
+- name: Random Password Generator
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: Random-Password-Generator
+  img: /static/assets/img/landing/rpg.png
+  desc: This the GUI based python Project for generating the different
+        levels of passwords using the mixture of alphabets, numbers and
+        special symbols.
+
+- name: QR Code Generator and Scanner
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: QR-Code
+  img: /static/assets/img/landing/qr.png
+  desc: QR code generator and Reader is a python based mini project for generating and 
+        scanning QR-Codes.
+
+- name: Matlab and Simulink Projects
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: MATLAB-Simulink-Projects
+  img: /static/assets/img/landing/ms.png
+  desc: This is repository contains the project files of MATLAB/ Simulink projects
+        that I made in B.Tech, 2nd Year.
