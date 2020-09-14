@@ -1,6 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: The Conurbation Algorithm
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: The-Conurbation-Algorithm
+  img: /static/assets/img/landing/city.png
+  desc: This project is aimed at developing a fully functional featural city without distrupting the ecological density of the city.
+        It is a further modification of the initial city generation model.This project is based on python and PyQt5.Developed city 
+        can be effectively visualised with blender as well.
+- name: Land Stratification
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: Land-Stratification-ISRO
+  img: /static/assets/img/landing/land.png
+  desc: Land cover classification has been one of the most common tasks in remote sensing as it is the foundation for many 
+        global and environmental applications.This project aims at generating a mosaic by stitching all the tif images together
+        according to metadata and then extracting as well as isolating the vegetation cover of the generated mosaic of the region.
 - name: Google PlaceID Reviews Scrapping
   i18n: 
   gh_user: kritika-srivastava
