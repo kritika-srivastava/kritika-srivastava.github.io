@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Python, Machine Learning, C++, Git, SQL, Java Script, Algorithms, GitHub, Data Structures, OpenCV
-percentage: 100, 95, 85, 80, 80, 70, 60, 95, 92, 93, 80
+aspects: Java, Python, Machine Learning, C++, Git, SQL, Java Script, Algorithms, GitHub, Data Structures, OpenCV, Tableau
+percentage: 100, 95, 85, 80, 80, 80, 60, 95, 92, 93, 80, 90

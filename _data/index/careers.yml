@@ -1,10 +1,51 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Crio.do
+    i18n: Crio.do
+  desc:
+    detail: Winter of Doing | Internship
+    i18n:  Winter of Doing
+  date:
+    detail: January 2021
+    i18n: 1-1-2021
+  job:
+    detail: Full Stack development Training and Internship 
+    i18n: Internship
+  icon: fa-plus-square
+- name:
+    detail: The Sparks Foundation
+    i18n: The Sparks Foundation
+  desc:
+    detail: IoT and Computer Vision Internship
+    i18n:  IoT and Computer Vision Internship
+  date:
+    detail: December 2020
+    i18n: 1-12-2020
+  job:
+    detail: Internship in the field of IoT and Computer Vision
+    i18n: Internship
+  icon: fa-plus-square
+- name:
+    detail: The Sparks Foundation
+    i18n: The Sparks Foundation
+  desc:
+    detail: Data Science and Business Analytics Internship
+    i18n:  Data Science and Business Analytics Internship
+  date:
+    detail: October 2020
+    i18n: 1-10-2020
+  job:
+    detail: Internship in the field of Data Science 
+            and Business Analytics
+    i18n: Internship
+  icon: fa-plus-square
+  
+- name:
     detail: National Institute of Technology, Hamirpur
     i18n: National Institute of Technology, Hamirpur
   desc:
-    detail: Bachelors of Technology , Electrical Engineering
+    detail: Bachelors of Technology , Electrical Engineering 
     i18n: Bachelors of Technology , Electrical Engineering
   date:
     detail: July 2018 - Present
@@ -28,6 +69,7 @@
     detail: Student
     i18n: student
   icon: fa-plus-square
+  present: true
 
 - name:
     detail: St. Joseph's School,Greater Noida
@@ -42,3 +84,4 @@
     detail: Student
     i18n: student
   icon: fa-plus-square
+  present: true

@@ -1,6 +1,24 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Drishti
+  i18n: 
+  gh_user: DedSec-1
+  repo: Drishti
+  img: /static/assets/img/landing/drishti.png
+  desc: Drishti is basically a gesture to speech convertor DL model implemented in python and deployed using flask.
+        It recognizes the hand gestures of the subject (in our case a person) and predicts the corresponding alphabet. 
+        We have also made the use of text to speech convertor to provide a voice enabled output.
+
+- name: Sparks Foundation Tasks
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: The-Sparks-Foundation-Tasks
+  img: /static/assets/img/landing/Sparks.png
+  desc: This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+        Throughout the internship I have worked on various ML models like Decision tree classifier, Linear regression, 
+        K-Nearest neighbours and also created dashboards using tableau. 
+
 - name: The Conurbation Algorithm
   i18n: 
   gh_user: kritika-srivastava
@@ -17,6 +35,7 @@
   desc: Land cover classification has been one of the most common tasks in remote sensing as it is the foundation for many 
         global and environmental applications.This project aims at generating a mosaic by stitching all the tif images together
         according to metadata and then extracting as well as isolating the vegetation cover of the generated mosaic of the region.
+
 - name: Google PlaceID Reviews Scrapping
   i18n: 
   gh_user: kritika-srivastava
@@ -34,6 +53,13 @@
   desc: This java project is based on is a 'cellular automaton', and was invented by Cambridge mathematician John Conway.
         It consists of a collection of cells which, based on a few mathematical rules, can live, die or multiply. 
         Depending on the initial conditions, the cells form various patterns throughout the course of the game.  
+
+- name: Optical Character Recognition
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: OCR
+  img: /static/assets/img/landing/ocr.png
+  desc: The given OCR model has been implemented using two methods  -> 1. By using tesseract. 2. By an OpenCV and a DL model.
 
 - name: Tic Tac Toe
   i18n: 
