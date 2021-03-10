@@ -1,1 +1,1 @@
-# kritika-srivastava.github.io
+# kritika-srivastava
