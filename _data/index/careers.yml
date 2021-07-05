@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Google CloudReady Facilitator Program
+    i18n: Google Cloud
+  desc:
+    detail: Google Cloud Training
+    i18n:  Training
+  date:
+    detail: April 2021
+    i18n: 10-4-2021
+  job:
+    detail: Training 
+    i18n: Internship
+  icon: fa-plus-square
+
+- name:
     detail: Crio.do
     i18n: Crio.do
   desc:
@@ -13,6 +27,7 @@
     detail: Full Stack development Training and Internship 
     i18n: Internship
   icon: fa-plus-square
+  present: true
 - name:
     detail: The Sparks Foundation
     i18n: The Sparks Foundation
@@ -40,7 +55,7 @@
             and Business Analytics
     i18n: Internship
   icon: fa-plus-square
-  
+  present: true
 - name:
     detail: National Institute of Technology, Hamirpur
     i18n: National Institute of Technology, Hamirpur
@@ -54,7 +69,7 @@
     detail: Undergraduate Student
     i18n: Undergraduate Student
   icon: fa-plus-square
-  present: true
+  
 
 - name:
     detail: St. Joseph's School, Greater Noida
@@ -84,4 +99,4 @@
     detail: Student
     i18n: student
   icon: fa-plus-square
-  present: true
+  
