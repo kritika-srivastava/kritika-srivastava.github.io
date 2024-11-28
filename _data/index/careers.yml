@@ -1,6 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: NatWest
+    i18n: NatWest
+  desc:
+    detail: Software Engineer
+    i18n:  Software Engineer
+  date:
+    detail: July 2022 - Present
+    i18n: 18=07-2022
+  job:
+    detail: Software Engineer | Full-Time 
+    i18n: Software Engineer | Full-Time 
+  icon: fa-plus-square
+
+- name:
+    detail: Microsoft Enagage 2021
+    i18n: Microsoft
+  desc:
+    detail: Training
+    i18n:  Training
+  date:
+    detail: November-December 2021
+    i18n: 10-11-2021
+  job:
+    detail: Yearly Mentorship Program by Microsoft
+    i18n: Training
+  icon: fa-plus-square
+- name:
     detail: Google CloudReady Facilitator Program
     i18n: Google Cloud
   desc:

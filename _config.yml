@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Kritika Srivastava  # Be used at blog posts' author.
   first_name: Kritika  # Be used at index page about me section.
   last_name: Srivastava  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: kritika-srivastava  
   linkedin_id: kritika-srivastava14 
   facebook_username:  # Leave blank if you don't have now
@@ -28,10 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am Kritika Srivastava. I am an undergraduate student pursuing B.Tech in Electrical Engineering from 
-        National Institute of Technology, Hamirpur with current grade point of 9.33. Currently, I am working on
-        Image Processing and OpenCV. My interest areas include Machine Learning, Deep Learning and IoT.
-        I am a competitive programming enthusiast.   
+  desc: Hi! I am Kritika Srivastava and I work as  Software Engineer at Natwest. I am passionate about creating efficient, scalable, and innovative solutions. I focus on building impactful applications and staying ahead of industry trends. Let’s connect if you’re interested in collaborating or exploring new opportunities!
 
 
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

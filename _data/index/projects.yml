@@ -1,6 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Bank of API's
+  i18n: 
+  gh_user: kritika-srivastava
+  repo: BankOfAPIs
+  img: /static/assets/img/landing/API.png
+  desc: Bank of APIs is a common platform where customers can perform various
+        banking activities like add multiple bank accounts, view statement of all
+        individual customer account across different bank, transfer money across
+        different banks and etc
 - name: Drishti
   i18n: 
   gh_user: DedSec-1
